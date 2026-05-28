@@ -1,0 +1,4 @@
+{
+  "server":"http://serverbaru.com/api/control.php",
+  "register":"http://serverbaru.com/api/register.php"
+}
