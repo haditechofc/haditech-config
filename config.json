@@ -1,4 +1,4 @@
 {
-  "server":"http://hadi.latarkota.com/api/control.php",
-  "register":"http://hadi.latarkota.com/api/register.php"
+  "server":"http://hadi.latarkota.com/smart/control.php",
+  "register":"http://hadi.latarkota.com/smart/register.php"
 }
