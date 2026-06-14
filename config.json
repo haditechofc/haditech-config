@@ -1,6 +1,6 @@
 {
   "server":"http://hadi.latarkota.com/smart/control.php",
-  "register":"http://hadi.latarkota.com/smart/register.php"
+  "register":"http://hadi.latarkota.com/smart/register.php",
   "mqtt_server":"a5c1078a.ala.us-east-1.emqxsl.com",
   "mqtt_port":8883
 }
