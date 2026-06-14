@@ -1,4 +1,6 @@
 {
   "server":"http://hadi.latarkota.com/smart/control.php",
   "register":"http://hadi.latarkota.com/smart/register.php"
+   "mqtt_server":"broker.domain.com",
+    "mqtt_port":1883
 }
